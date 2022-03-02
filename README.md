@@ -47,7 +47,9 @@ spec:
 
 - [github-actions-templates](https://github.com/BretFisher/github-actions-templates) -
 reusable GitHub Actions templates for DevOps stuff (linting, docker builds, CVE scanning, etc.)
-- [super-linter](https://github.com/BretFisher/super-linter-workflow) -
+- [docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) -
+My custom GitHub Actions workflow using Docker's official build-and-push Actions 
+- [super-linter-workflow](https://github.com/BretFisher/super-linter-workflow) -
 My custom **all-in-one** linter workflow. I lint all my repositories, and I recommend you do to.
 - [node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) -
 A sample Node.js project that uses Docker.
