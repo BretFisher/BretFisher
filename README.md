@@ -45,6 +45,7 @@ spec:
 
 ## My examples and templates
 
+- [allhands22](https://github.com/BretFisher/allhands22) - Video and examples of GitHub Actions for advanced docker builds, automated testing, and CVE scanning.
 - [github-actions-templates](https://github.com/BretFisher/github-actions-templates) -
 reusable GitHub Actions templates for DevOps stuff (linting, docker builds, CVE scanning, etc.)
 - [docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) -
