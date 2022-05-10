@@ -66,7 +66,7 @@ A sample PHP project that uses Docker.
 A sample Java project that uses Docker.
 - [dogvscat](https://github.com/BretFisher/dogvscat)
 Using the voting app in Docker Swarm to explain orchestration, proxies, secrets, and networking.
-- [dockercon19](https://github.com/BretFisher/dockercon19) -
+- [nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
 Video and examples of multi-stage docker builds, k8s healthcheck probes, etc.
 
 ## My tools (often used for learning Containers, Kubernetes, and Docker)
