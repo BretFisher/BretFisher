@@ -26,6 +26,7 @@ spec:
     animal: 🐶
     emoji: 🤦
     food: 🥩
+    drink: 🥃
 ```
 
 🙋‍♀️ You can Ask-Me-Anything in my [ama](https://github.com/BretFisher/ama) repository, or tweet [@BretFisher](https://twitter.com/BretFisher).
@@ -43,8 +44,10 @@ spec:
 - [Swarm Mastery]((https://github.com/BretFisher/udemy-docker-mastery)) (learn more about Docker's built-in orchestrator)
 - More DevOps courses coming!
 
-## My examples and templates
+## My examples and templates (ordered from new to old)
 
+- [nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
+Video and examples of multi-stage docker builds, k8s healthcheck probes, etc.
 - [allhands22](https://github.com/BretFisher/allhands22) - Video and examples of GitHub Actions for advanced docker builds, automated testing, and CVE scanning.
 - [github-actions-templates](https://github.com/BretFisher/github-actions-templates) -
 reusable GitHub Actions templates for DevOps stuff (linting, docker builds, CVE scanning, etc.)
@@ -66,8 +69,6 @@ A sample PHP project that uses Docker.
 A sample Java project that uses Docker.
 - [dogvscat](https://github.com/BretFisher/dogvscat)
 Using the voting app in Docker Swarm to explain orchestration, proxies, secrets, and networking.
-- [nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
-Video and examples of multi-stage docker builds, k8s healthcheck probes, etc.
 
 ## My tools (often used for learning Containers, Kubernetes, and Docker)
 
