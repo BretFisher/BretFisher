@@ -44,15 +44,17 @@ spec:
 - [Swarm Mastery]((https://github.com/BretFisher/udemy-docker-mastery)) (learn more about Docker's built-in orchestrator)
 - More DevOps courses coming!
 
-## My examples and templates (ordered from new to old)
+## My examples and templates (New stuff on top)
 
+- [K8s Pod Spec Good Defaults](Kubernetes Pod Specification Good Defaults) - Good Defaults for the most common Kubernetes workloads. Adds security and uptime (optional) features.
 - [nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
 Video and examples of multi-stage docker builds, k8s healthcheck probes, etc.
-- [allhands22](https://github.com/BretFisher/allhands22) - Video and examples of GitHub Actions for advanced docker builds, automated testing, and CVE scanning.
+- [allhands22](https://github.com/BretFisher/allhands22) -
+Video and examples of GitHub Actions for advanced docker builds, automated testing, and CVE scanning.
 - [github-actions-templates](https://github.com/BretFisher/github-actions-templates) -
 reusable GitHub Actions templates for DevOps stuff (linting, docker builds, CVE scanning, etc.)
 - [docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) -
-My custom GitHub Actions workflow using Docker's official build-and-push Actions 
+My custom GitHub Actions workflow using Docker's official build-and-push Actions.
 - [super-linter-workflow](https://github.com/BretFisher/super-linter-workflow) -
 My custom **all-in-one** linter workflow. I lint all my repositories, and I recommend you do to.
 - [node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) -
