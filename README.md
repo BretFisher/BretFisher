@@ -1,7 +1,7 @@
 # Oh hi 👋
 
 ```yaml
-apiVersion: v46
+apiVersion: v47
 kind: Human
 metadata:
   name: Bret Fisher
