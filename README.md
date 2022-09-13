@@ -46,28 +46,28 @@ spec:
 
 ## My examples and templates (New stuff on top)
 
-- [K8s Pod Spec Good Defaults](Kubernetes Pod Specification Good Defaults) - Good Defaults for the most common Kubernetes workloads. Adds security and uptime (optional) features.
-- [nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
+- [Kubernetes Pod Specification Good Defaults](https://github.com/BretFisher/podspec) - Good Defaults for the most common Kubernetes workloads. Adds security and uptime (optional) features.
+- [Node.js Rocks in Docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
 Video and examples of multi-stage docker builds, k8s healthcheck probes, etc.
-- [allhands22](https://github.com/BretFisher/allhands22) -
+- [GitHub Actions for Docker: examples and video walkthrough](https://github.com/BretFisher/allhands22) -
 Video and examples of GitHub Actions for advanced docker builds, automated testing, and CVE scanning.
-- [github-actions-templates](https://github.com/BretFisher/github-actions-templates) -
+- [GitHub Actions DevOps Templates](https://github.com/BretFisher/github-actions-templates) -
 reusable GitHub Actions templates for DevOps stuff (linting, docker builds, CVE scanning, etc.)
-- [docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) -
+- [Docker Build GitHub Action Template](https://github.com/BretFisher/docker-build-workflow) -
 My custom GitHub Actions workflow using Docker's official build-and-push Actions.
-- [super-linter-workflow](https://github.com/BretFisher/super-linter-workflow) -
+- [Super Linter GitHub Action Template](https://github.com/BretFisher/super-linter-workflow) -
 My custom **all-in-one** linter workflow. I lint all my repositories, and I recommend you do to.
-- [node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) -
+- [Node.js Docker Good Defaults](https://github.com/BretFisher/node-docker-good-defaults) -
 A sample Node.js project that uses Docker.
-- [comopose-dev-tls](https://github.com/BretFisher/compose-dev-tls) -
+- [Docker Compose local TLS for devs](https://github.com/BretFisher/compose-dev-tls) -
 A sample Compose file that uses a Traefik proxy for TLS, and optionally, Let's Encrypt.
-- [multi-platform-docker-build](https://github.com/BretFisher/multi-platform-docker-build) -
+- [Docker Build Multi-platofrm Readme](https://github.com/BretFisher/multi-platform-docker-build) -
 Explains some ways to build Docker images for multiple platforms in a single Dockerfile.
-- [voting-app](https://github.com/BretFisher/example-voting-app) -
+- [Voting App Docker Example](https://github.com/BretFisher/example-voting-app) -
 My favorite multi-container example app that I often use to for learning Docker, K8s, CI/CD, and GitOps.
-- [php-docker-good-defaults](https://github.com/BretFisher/php-docker-good-defaults) -
+- [PHP Docker Good Defaults (outdated)](https://github.com/BretFisher/php-docker-good-defaults) -
 A sample PHP project that uses Docker.
-- [petclinic](https://github.com/BretFisher/petclinic) -
+- [Java Docker Petclinic Example](https://github.com/BretFisher/petclinic) -
 A sample Java project that uses Docker.
 - [dogvscat](https://github.com/BretFisher/dogvscat)
 Using the voting app in Docker Swarm to explain orchestration, proxies, secrets, and networking.
