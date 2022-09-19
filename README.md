@@ -61,7 +61,7 @@ My custom **all-in-one** linter workflow. I lint all my repositories, and I reco
 A sample Node.js project that uses Docker.
 - [Docker Compose local TLS for devs](https://github.com/BretFisher/compose-dev-tls) -
 A sample Compose file that uses a Traefik proxy for TLS, and optionally, Let's Encrypt.
-- [Docker Build Multi-platofrm Readme](https://github.com/BretFisher/multi-platform-docker-build) -
+- [Docker Build Multi-platform Readme](https://github.com/BretFisher/multi-platform-docker-build) -
 Explains some ways to build Docker images for multiple platforms in a single Dockerfile.
 - [Voting App Docker Example](https://github.com/BretFisher/example-voting-app) -
 My favorite multi-container example app that I often use to for learning Docker, K8s, CI/CD, and GitOps.
