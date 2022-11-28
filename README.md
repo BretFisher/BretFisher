@@ -31,7 +31,7 @@ spec:
 
 🙋‍♀️ You can Ask-Me-Anything in my [ama](https://github.com/BretFisher/ama) repository, or tweet [@BretFisher](https://twitter.com/BretFisher).
 
-💬 Join my 8k+ member DevOps community on Discord: [devops.fan](https://devops.fan/).
+💬 Join my 12k+ member DevOps community on Discord: [devops.fan](https://devops.fan/).
 
 ☕️ 🤑 Please support my DevOps [YouTube Live show](https://bret.live), [podcast](https://www.bretfisher.com/podcast), and open source content by buying me a coffee every month [via Patreon](https://patreon.com/bretfisher)!
 
@@ -49,7 +49,7 @@ spec:
 - [Kubernetes Pod Specification Good Defaults](https://github.com/BretFisher/podspec) - Good Defaults for the most common Kubernetes workloads. Adds security and uptime (optional) features.
 - [Node.js Rocks in Docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
 Video and examples of multi-stage docker builds, k8s healthcheck probes, etc.
-- [GitHub Actions for Docker: examples and video walkthrough](https://github.com/BretFisher/allhands22) -
+- [GitHub Actions for Docker: examples and video walkthrough](https://github.com/BretFisher/docker-cicd-automation) -
 Video and examples of GitHub Actions for advanced docker builds, automated testing, and CVE scanning.
 - [GitHub Actions DevOps Templates](https://github.com/BretFisher/github-actions-templates) -
 reusable GitHub Actions templates for DevOps stuff (linting, docker builds, CVE scanning, etc.)
