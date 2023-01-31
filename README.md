@@ -7,7 +7,7 @@ metadata:
   name: Bret Fisher
 spec:
   purpose: Help others learn container DevOps
-  sponsorship: patreon.com/bretfisher
+  sponsorship: bretfisher.com/members
   locations:
     - 
       type: YouTube Live Stream on Thursdays
