@@ -13,6 +13,9 @@ spec:
       type: YouTube Live Stream on Thursdays
       where: bret.live
     - 
+      type: Newsletter
+      where: bret.news
+    - 
       type: Homepage
       where: bretfisher.com
     - 
@@ -33,7 +36,9 @@ spec:
 
 💬 Join my 12k+ member DevOps community on Discord: [devops.fan](https://devops.fan/).
 
-☕️ 🤑 Please support my DevOps [YouTube Live show](https://bret.live), [podcast](https://www.bretfisher.com/podcast), and open source content by buying me a coffee every month [via Patreon](https://patreon.com/bretfisher)!
+📰 Read my Cloud Native Newsletter: [bret.news](https://bret.news)
+
+☕️ 🤑 Please support my DevOps [YouTube Live show](https://bret.live), [podcast](https://www.bretfisher.com/podcast), and open source content by buying me a coffee every month [at bretfisher.com/members](https://bretfisher.com/members)!
 
 ## 🧑‍🏫 My course repositories
 
