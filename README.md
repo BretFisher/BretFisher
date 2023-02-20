@@ -51,6 +51,7 @@ spec:
 
 ## My examples and templates (New stuff on top)
 
+- [Awesome Swarm](https://github.com/BretFisher/awesome-swarm) - A list of resources, tools, and learning on Docker/Mirantis Swarm (SwarmKit)
 - [Kubernetes Pod Specification Good Defaults](https://github.com/BretFisher/podspec) - Good Defaults for the most common Kubernetes workloads. Adds security and uptime (optional) features.
 - [Node.js Rocks in Docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
 Video and examples of multi-stage docker builds, k8s healthcheck probes, etc.
