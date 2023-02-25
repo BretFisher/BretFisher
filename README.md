@@ -55,7 +55,7 @@ spec:
 - [Kubernetes Pod Specification Good Defaults](https://github.com/BretFisher/podspec) - Good Defaults for the most common Kubernetes workloads. Adds security and uptime (optional) features.
 - [Node.js Rocks in Docker](https://github.com/BretFisher/nodejs-rocks-in-docker) -
 Video and examples of multi-stage docker builds, k8s healthcheck probes, etc.
-- [GitHub Actions for Docker: examples and video walkthrough](https://github.com/BretFisher/docker-cicd-automation) -
+- [GitHub Actions for Docker: examples and video walkthrough](https://github.com/BretFisher/docker-ci-automation) -
 Video and examples of GitHub Actions for advanced docker builds, automated testing, and CVE scanning.
 - [GitHub Actions DevOps Templates](https://github.com/BretFisher/github-actions-templates) -
 reusable GitHub Actions templates for DevOps stuff (linting, docker builds, CVE scanning, etc.)
