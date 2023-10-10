@@ -43,6 +43,7 @@ spec:
 ## 🧑‍🏫 My course repositories
 
 - **All my Udemy course coupon codes:** [bretfisher.com/courses](https://bretfisher.com/courses)
+- [Automate Your Kubernetes Deployments with GitHub Actions and Argo GitOps](https://maven.com/bretfisher/automate-kubernetes-deployments)
 - [Docker Mastery](https://github.com/BretFisher/udemy-docker-mastery) (with Kubernetes, Swarm, Compose, and more)
 - [Kubernetes Mastery](https://github.com/BretFisher/kubernetes-mastery) (go deeper in K8s)
 - [Docker for Node.js](https://github.com/BretFisher/docker-mastery-for-nodejs) (learn advanced ways to use local Docker with Node.js projects)
