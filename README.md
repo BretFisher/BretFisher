@@ -1,29 +1,26 @@
 # Oh hi 👋
 
 ```yaml
-apiVersion: v48
+apiVersion: v49
 kind: Human
 metadata:
   name: Bret Fisher
 spec:
   purpose: Help others learn container DevOps
-  sponsorship: bretfisher.com/members
+  sponsorship: https://www.bretfisher.com/members
   locations:
     - 
       type: YouTube Live Stream on Thursdays
-      where: bret.live
+      where: https://www.youtube.com/@BretFisher
     - 
       type: Newsletter
-      where: bret.news
-    - 
-      type: Homepage
-      where: bretfisher.com
+      where: https://www.bretfisher.com/newsletter
     - 
       type: Discord Server
-      where: devops.fan
+      where: https://discord.gg/devops
     -
       type: Podcast
-      where: bretfisher.com/podcast
+      where: https://www.bretfisher.com/podcast
   favorites:
     number: 42
     animal: 🐶
@@ -34,7 +31,7 @@ spec:
 
 🙋‍♀️ You can Ask-Me-Anything in my [ama](https://github.com/BretFisher/ama) repository, or tweet [@BretFisher](https://twitter.com/BretFisher).
 
-💬 Join my 12k+ member DevOps community on Discord: [devops.fan](https://devops.fan/).
+💬 Join my 19k+ member DevOps community on Discord: [devops.fan](https://devops.fan/).
 
 📰 Read my Cloud Native Newsletter: [bret.news](https://bret.news)
 
