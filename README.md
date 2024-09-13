@@ -85,6 +85,8 @@ Common Kubernetes tools in a single pod.
 Ping with HTTP. Fantastic for testing zero-downtime rolling updates.
 - [jekyll](https://github.com/BretFisher/jekyll-serve) -
 Jekyll in a container.
+- [stress](https://github.com/BretFisher/stress) -
+Easy CPU and Memory Stressing for Docker, Swarm, and Kubernetes.
 - [vackup](https://github.com/BretFisher/docker-vackup) -
 Docker Volume backup and restore.
 - [browncoat](https://github.com/BretFisher/browncoat) -
