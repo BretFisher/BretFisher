@@ -29,13 +29,17 @@ spec:
     drink: 🥃
 ```
 
-🙋‍♀️ You can Ask-Me-Anything in my [ama](https://github.com/BretFisher/ama) repository, or tweet [@BretFisher](https://twitter.com/BretFisher).
+## Reach out and say hi!
 
-💬 Join my 19k+ member DevOps community on Discord: [devops.fan](https://devops.fan/).
+🙋‍♀️ You can Ask-Me-Anything in my [ama](https://github.com/BretFisher/ama) repository, or tweet [@BretFisher](https://twitter.com/BretFisher)
+
+[![](https://dcbadge.limes.pink/api/server/devops)](https://discord.gg/devops) 👈 I'm here daily
+
+💬👆👆👆 Join my Cloud Native DevOps community on Discord:  [discord.gg/devops](https://discord.gg/devops)
 
 📰 Read my Cloud Native Newsletter: [bret.news](https://bret.news)
 
-☕️ 🤑 Please support my DevOps [YouTube Live show](https://bret.live), [podcast](https://www.bretfisher.com/podcast), and open source content by buying me a coffee every month [at bretfisher.com/members](https://bretfisher.com/members)!
+☕️ 🤑 Please support my DevOps [YouTube Live show](https://bret.live), [podcast](https://www.bretfisher.com/podcast), and open source content by buying me a coffee every month on YouTube or [at bretfisher.com/members](https://bretfisher.com/members)!
 
 ## 🧑‍🏫 My course repositories
 
