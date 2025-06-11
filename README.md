@@ -53,6 +53,7 @@ spec:
 
 ## My examples and templates (New stuff on top)
 
+- [Awesome DevOps Demo Apps](https://github.com/BretFisher/awesome-cloud-demo-apps) - A list of multi-container demo apps that run on servers
 - [Awesome Swarm](https://github.com/BretFisher/awesome-swarm) - A list of resources, tools, and learning on Docker/Mirantis Swarm (SwarmKit)
 - [Kubernetes initContainer Examples and Good Defaults](https://github.com/BretFisher/initcontainers) - Learn Kubernetes Init Containers by example, and when to not use them.
 - [Kubernetes Pod Specification (podspec) Good Defaults](https://github.com/BretFisher/podspec) - Good Defaults for the most common Kubernetes workloads. Adds security and uptime (optional) features.
