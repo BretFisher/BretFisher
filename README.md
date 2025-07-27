@@ -31,9 +31,9 @@ spec:
 
 ## Reach out and say hi!
 
-🙋‍♀️ You can Ask-Me-Anything in my [ama](https://github.com/BretFisher/ama) repository, or tweet [@BretFisher](https://twitter.com/BretFisher)
+🙋‍♀️ You can Ask-Me-Anything in my [ama](https://github.com/BretFisher/ama) repository, or DM me on [🦋BlueSky](https://bsky.app/profile/bretfisher.com) or [Discord](https://discord.gg/devops).
 
-[![](https://dcbadge.limes.pink/api/server/devops)](https://discord.gg/devops) 👈 I'm here daily
+[![](https://dcbadge.limes.pink/api/server/devops)](https://discord.gg/devops) 👈 Join me and my DevOps friends, I'm here daily
 
 💬👆👆👆 Join my Cloud Native DevOps community on Discord:  [discord.gg/devops](https://discord.gg/devops)
 
