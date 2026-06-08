@@ -1,7 +1,7 @@
 # Oh hi 👋
 
 ```yaml
-apiVersion: v49
+apiVersion: v50
 kind: Human
 metadata:
   name: Bret Fisher
@@ -43,8 +43,8 @@ spec:
 
 ## 🧑‍🏫 My course repositories
 
-- **All my Udemy course coupon codes:** [bretfisher.com/courses](https://bretfisher.com/courses)
-- [Automate Your Kubernetes Deployments with GitHub Actions and Argo GitOps](https://maven.com/bretfisher/automate-kubernetes-deployments)
+- **All my Udemy course coupon codes:** [bretfisher.com/courses](https://www.bretfisher.com/courses)
+- 2026 - [Agentic DevOps Guild - Meetups + AI courses on CI and agent setup](https://www.bretfisher.com/theguild)
 - [Docker Mastery](https://github.com/BretFisher/udemy-docker-mastery) (with Kubernetes, Swarm, Compose, and more)
 - [Kubernetes Mastery](https://github.com/BretFisher/kubernetes-mastery) (go deeper in K8s)
 - [Docker for Node.js](https://github.com/BretFisher/docker-mastery-for-nodejs) (learn advanced ways to use local Docker with Node.js projects)
@@ -53,6 +53,7 @@ spec:
 
 ## My examples and templates (New stuff on top)
 
+- [Silent Rebuilds](https://github.com/BretFisher/silent-rebuilds) - Upstream Docker images are silently updating and overwriting tags. This explains what to do about that.
 - [Awesome DevOps Demo Apps](https://github.com/BretFisher/awesome-cloud-demo-apps) - A list of multi-container demo apps that run on servers
 - [Awesome Swarm](https://github.com/BretFisher/awesome-swarm) - A list of resources, tools, and learning on Docker/Mirantis Swarm (SwarmKit)
 - [Kubernetes initContainer Examples and Good Defaults](https://github.com/BretFisher/initcontainers) - Learn Kubernetes Init Containers by example, and when to not use them.
