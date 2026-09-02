@@ -33,18 +33,18 @@ spec:
 
 🙋‍♀️ You can Ask-Me-Anything in my [ama](https://github.com/BretFisher/ama) repository, or DM me on [🦋BlueSky](https://bsky.app/profile/bretfisher.com) or [Discord](https://discord.gg/devops).
 
-[![](https://dcbadge.limes.pink/api/server/devops)](https://discord.gg/devops) 👈 Join me and my DevOps friends, I'm here daily
+[![](https://dcbadge.limes.pink/api/server/CXvdcE66vw)](https://discord.gg/CXvdcE66vw) 👈 Join me and my DevOps friends, I'm here daily
 
-💬👆👆👆 Join my Cloud Native DevOps community on Discord:  [discord.gg/devops](https://discord.gg/devops)
+💬👆👆👆 Join my Cloud Native DevOps community on Discord:  [devops.fan](https://devops.fan/github)
 
 📰 Read my Cloud Native Newsletter: [bret.news](https://bret.news)
 
 ☕️ 🤑 Please support my DevOps [YouTube Live show](https://bret.live), [podcast](https://www.bretfisher.com/podcast), and open source content by buying me a coffee every month on YouTube or [at bretfisher.com/members](https://bretfisher.com/members)!
 
-## 🧑‍🏫 My course repositories
+## 🧑‍🏫 My courses
 
-- **All my Udemy course coupon codes:** [bretfisher.com/courses](https://www.bretfisher.com/courses)
-- 2026 - [Agentic DevOps Guild - Meetups + AI courses on CI and agent setup](https://www.bretfisher.com/theguild)
+- **2026 - My current focus: [Agentic DevOps Guild - Meetups + AI courses on CI, Platform Engineering, and agent setup](https://www.bretfisher.com/theguild)**
+- My Udemy course coupon codes: [bretfisher.com/courses](https://www.bretfisher.com/courses)
 - [Docker Mastery](https://github.com/BretFisher/udemy-docker-mastery) (with Kubernetes, Swarm, Compose, and more)
 - [Kubernetes Mastery](https://github.com/BretFisher/kubernetes-mastery) (go deeper in K8s)
 - [Docker for Node.js](https://github.com/BretFisher/docker-mastery-for-nodejs) (learn advanced ways to use local Docker with Node.js projects)
